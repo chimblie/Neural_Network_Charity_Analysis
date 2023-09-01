@@ -9,12 +9,13 @@
 •	The variables that are neither targets nor features and were removed from the input data are EIN' and 'NAME'.
 Compiling, Training, and Evaluating the Model
 I used 16,10,10 as far as the numbers of neurons with 3 layers and the activations functions were “relu” and “sigmoid”
- image.png
- image.png
- 
+![image](https://github.com/chimblie/Neural_Network_Charity_Analysis/assets/121005128/a74cb24a-8aec-4bb8-8331-3bf9c86efba7)
+
+
 •	To increase the performance of the model, I doubled the number of neurons and added layers, but the model accuracy increased just a little bit.
  
-image.png
+![image](https://github.com/chimblie/Neural_Network_Charity_Analysis/assets/121005128/5e777750-91a8-492e-b708-c27baa8fa806)
+
 
 3.	Summary:
 •	In summary, the deep learning model has a better accuracy score compared to the other models. I found that in deep learning model the accuracy score is better optimized when using less hidden years. The more is not always the merrier, so my recommendation is to be cautious when deciding how many hidden layers or even the number of neurons to use.
